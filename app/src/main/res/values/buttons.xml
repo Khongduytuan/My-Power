@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/ic_pay</item>
+        <item>@drawable/ic_info</item>
+    </array>
+    <array name="colors">
+        <item>@color/pay</item>
+        <item>@color/info</item>
+    </array>
+</resources>
